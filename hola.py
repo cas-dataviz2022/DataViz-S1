@@ -1,1 +1,2 @@
-print("Logré mi primer REPO")
+print("Logré mi primer repositorio")
+print("Ahora crearemos datos de prueba")
